@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Tughanbulut 👋</h1>
   <h3>AI Infrastructure & Big Data Engineer</h3>
-  <p><i>"Orchestrating autonomous agents on scalable data pipelines."</i></p>
+  <p><i>"Bridging Generative AI with Enterprise-Scale Architecture."</i></p>
 
   <a href="https://linkedin.com/in/tughanbulut-kurtulush">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -9,12 +9,20 @@
   <a href="mailto:tuan.kurtulush1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-C71610?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <br /> <br />
+
+  <img src="https://img.shields.io/badge/Azerbaijani-Native-0092BC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Turkish-Native-E30A17?style=flat-square" />
+  <img src="https://img.shields.io/badge/Russian-Native-0039A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-Professional-00247D?style=flat-square" />
+  <img src="https://img.shields.io/badge/German-Basic-FFCE00?style=flat-square" />
 </div>
 
 <br />
 
-### 🧠 Core Focus: **Big Data x Generative AI**
-I specialize in building self-healing infrastructure and processing pipelines that leverage **State-of-the-Art LLMs** (DeepSeek, Claude 3.5, GPT-4) atop robust data architectures.
+### 🧠 Core Focus: **Polyglot Engineering**
+I combine the speed of **Python** for AI with the robustness of **Java & C#** for scalable backend systems. I specialize in Big Data pipelines and Agentic Workflows.
 
 ---
 
@@ -30,13 +38,14 @@ An autonomous infrastructure agent that uses **Local LLMs** to diagnose and patc
 
 ---
 
-### 🛠️ The Technical Stack
+### 🛠️ The Full Arsenal
 
 | **Domain** | **Technologies** |
 |:--- |:--- |
-| **🤖 LLMs & AI** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-d97757?logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlebard&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-0A0A0A?logo=deepseek&logoColor=blue) ![Ollama](https://img.shields.io/badge/Ollama-White?logo=ollama&logoColor=black) |
-| **🐘 Big Data** | ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| **☁️ DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) |
+| **🤖 Generative AI** | ![DeepSeek](https://img.shields.io/badge/DeepSeek-0A0A0A?logo=deepseek&logoColor=blue) ![Claude](https://img.shields.io/badge/Claude-d97757?logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlebard&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-White?logo=ollama&logoColor=black) |
+| **☕ Enterprise Core** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black) |
+| **🐍 AI Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white) |
+| **☁️ DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 
 ---
 

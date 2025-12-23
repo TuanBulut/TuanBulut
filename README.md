@@ -1,9 +1,41 @@
-<h1 align="center">Hi 👋, I'm Tughanbulut Kurtulush</h1>
-<h3 align="center">Computer Engineering Student at Vistula University (Poland)</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Tughanbulut Kurtulush</h1>
+  <h3>Computer Engineering Student @ Vistula University 🇵🇱</h3>
+  <p>Building Autonomous AI Agents & Scalable Backend Systems</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+  <a href="https://linkedin.com/in/tughanbulut-kurtulush">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tuan.kurtulush1234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 Featured Project: **OpsMind**
+I recently built **[OpsMind](https://github.com/TuanBulut/OpsMind)**, an autonomous AI agent that detects server crashes and fixes them using **Llama 3** and **Docker**.
+
+| **Real-Time Monitoring** | **AI Incident Resolution** |
+|:---:|:---:|
+| <img src="https://github.com/TuanBulut/OpsMind/blob/main/screenshots/dashboard_operational.png?raw=true" width="300" /> | <img src="https://github.com/TuanBulut/OpsMind/blob/main/screenshots/dashboard_alert.png?raw=true" width="300" /> |
+| *FastAPI + Streamlit Dashboard* | *Local LLM (Ollama) fixing Linux errors* |
+
+---
+
+### 🛠️ Technical Arsenal
+
+| **Category** | **Technologies** |
+|:---:|:--- |
+| **Backend & AI** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![Ollama](https://img.shields.io/badge/Ollama-White?logo=ollama&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) |
+| **Data & Big Data** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black) ![Hive](https://img.shields.io/badge/Hive-FDEE21?logo=apache-hive&logoColor=black) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+| **Mobile & Game** | ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) |
+
+---
+
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TuanBulut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanBulut&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</div>

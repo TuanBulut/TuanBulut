@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Tughanbulut 👋</h1>
-  <h3>AI Infrastructure Engineer & DevOps Specialist</h3>
-  <p><i>"I build autonomous systems that detect, diagnose, and fix themselves."</i></p>
+  <h3>AI Infrastructure & Big Data Engineer</h3>
+  <p><i>"Orchestrating autonomous agents on scalable data pipelines."</i></p>
 
   <a href="https://linkedin.com/in/tughanbulut-kurtulush">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,13 +13,13 @@
 
 <br />
 
-### 🧠 My Core Focus: **Agentic AI & Infrastructure**
-I bridge the gap between **Systems Engineering** and **Generative AI**. My goal is to eliminate manual troubleshooting by building intelligent agents that can reason about system failures.
+### 🧠 Core Focus: **Big Data x Generative AI**
+I specialize in building self-healing infrastructure and processing pipelines that leverage **State-of-the-Art LLMs** (DeepSeek, Claude 3.5, GPT-4) atop robust data architectures.
 
 ---
 
 ### 🚀 Flagship Project: **OpsMind**
-An autonomous infrastructure agent that uses **Local LLMs (Llama 3)** to diagnose and patch Linux server incidents in real-time.
+An autonomous infrastructure agent that uses **Local LLMs** to diagnose and patch Linux server incidents in real-time.
 
 | **The Dashboard** | **The Architecture** |
 |:---:|:---:|
@@ -30,14 +30,13 @@ An autonomous infrastructure agent that uses **Local LLMs (Llama 3)** to diagnos
 
 ---
 
-### 🛠️ The AIOps Stack
-*I specialize in this specific toolchain:*
+### 🛠️ The Technical Stack
 
 | **Domain** | **Technologies** |
 |:--- |:--- |
-| **🤖 AI & Agents** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-White?logo=ollama&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) |
-| **☁️ Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white) |
-| **⚡ Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+| **🤖 LLMs & AI** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-d97757?logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlebard&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-0A0A0A?logo=deepseek&logoColor=blue) ![Ollama](https://img.shields.io/badge/Ollama-White?logo=ollama&logoColor=black) |
+| **🐘 Big Data** | ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| **☁️ DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) |
 
 ---
 

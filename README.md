@@ -46,12 +46,12 @@ An autonomous infrastructure agent that uses **Local LLMs** to diagnose and patc
 ### 🛠️ The Full Arsenal
 
 | **Domain** | **Technologies** |
-|:--- |:--- |
-| **🤖 Generative AI** | ![DeepSeek](https://img.shields.io/badge/DeepSeek-0A0A0A?logo=deepseek&logoColor=blue) ![Claude](https://img.shields.io/badge/Claude-d97757?logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlebard&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-White?logo=ollama&logoColor=black) |
-| **☕ Enterprise Core** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black) |
-| **🐍 AI Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi) ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white) |
-| **☁️ DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
-
+| :--- | :--- |
+| **🤖 Generative AI** | ![DeepSeek](https://img.shields.io/badge/DeepSeek-0A0A0A?logo=deepseek&logoColor=blue) ![Claude](https://img.shields.io/badge/Claude-d97757?logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=google&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-White?logo=ollama&logoColor=black) |
+| **⚡ Real-Time & Big Data** | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop&logoColor=black) |
+| **☕ Enterprise Core** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) |
+| **🐍 AI Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) |
+| **☁️ DevOps & Sec** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 ---
 
 <div align="center">

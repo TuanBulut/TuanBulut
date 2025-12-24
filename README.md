@@ -1,3 +1,6 @@
+
+![ac92b23737a0a10ac856d91747ad01fd](https://github.com/user-attachments/assets/19eff9b4-1af4-4f49-815d-65064795f3b2)
+
 <div align="center">
   <h1>Hi, I'm Tughanbulut 👋</h1>
   <h3>AI Infrastructure & Big Data Engineer</h3>

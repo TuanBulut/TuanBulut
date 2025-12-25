@@ -53,7 +53,3 @@ An autonomous infrastructure agent that uses **Local LLMs** to diagnose and patc
 | **🐍 AI Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) |
 | **☁️ DevOps & Sec** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuanBulut&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-</div>

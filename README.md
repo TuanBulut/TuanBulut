@@ -30,7 +30,7 @@ I combine the speed of **Python** for AI with the robustness of **C# & .NET 9** 
 
 ---
 
-### 🚀 Flagship Project: **Aegis**
+### 🚀 Flagship Project: **Barbican**
 **Autonomous AI-Driven Security Orchestration, Automation & Response (SOAR) Platform.**
 
 A next-generation security platform incorporating **DeepSeek R1** for intelligent threat analysis, **GraphRAG** for attack topology mapping, and autonomous active defense.

@@ -4,9 +4,9 @@
 
 <div align="center">
   <h1>Hi, I'm Tughanbulut 👋</h1>
-  <h3>AI Infrastructure & Big Data Engineer</h3>
-  <p><i>"Bridging Generative AI with Enterprise-Scale Architecture."</i></p>
-
+  <h3>CE Student | Distributed Systems & AI Enthusiast</h3>
+  <p><i>"Turning coffee into scalable code and autonomous agents."</i></p>
+  
   <a href="https://linkedin.com/in/tughanbulut-kurtulush">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
